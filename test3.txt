@@ -1,0 +1,180 @@
+Item 0:
+Position: (165.0, 85.0, 0.0)
+End position: (179.0, 116.0, 9.0)
+Item 1:
+Position: (117.0, 0.0, 34.0)
+End position: (177.0, 81.0, 45.0)
+Item 3:
+Position: (179.0, 13.0, 0.0)
+End position: (240.0, 38.0, 9.0)
+Item 9:
+Position: (38.0, 0.0, 0.0)
+End position: (52.0, 73.0, 7.0)
+Item 10:
+Position: (34.0, 177.0, 57.0)
+End position: (101.0, 240.0, 82.0)
+Item 11:
+Position: (42.0, 15.0, 7.0)
+End position: (102.0, 78.0, 22.0)
+Item 12:
+Position: (145.0, 116.0, 98.0)
+End position: (240.0, 212.0, 127.0)
+Item 13:
+Position: (0.0, 56.0, 36.0)
+End position: (36.0, 139.0, 51.0)
+Item 14:
+Position: (34.0, 178.0, 25.0)
+End position: (132.0, 240.0, 37.0)
+Item 16:
+Position: (85.0, 0.0, 30.0)
+End position: (117.0, 60.0, 51.0)
+Item 17:
+Position: (0.0, 0.0, 52.0)
+End position: (43.0, 56.0, 80.0)
+Item 21:
+Position: (66.0, 0.0, 0.0)
+End position: (146.0, 15.0, 4.0)
+Item 22:
+Position: (149.0, 0.0, 45.0)
+End position: (240.0, 73.0, 71.0)
+Item 23:
+Position: (140.0, 217.0, 0.0)
+End position: (203.0, 240.0, 10.0)
+Item 24:
+Position: (0.0, 0.0, 0.0)
+End position: (38.0, 48.0, 19.0)
+Item 26:
+Position: (81.0, 100.0, 52.0)
+End position: (149.0, 168.0, 78.0)
+Item 29:
+Position: (0.0, 84.0, 0.0)
+End position: (31.0, 108.0, 11.0)
+Item 30:
+Position: (172.0, 0.0, 26.0)
+End position: (240.0, 66.0, 34.0)
+Item 32:
+Position: (157.0, 116.0, 71.0)
+End position: (240.0, 214.0, 98.0)
+Item 34:
+Position: (0.0, 167.0, 7.0)
+End position: (30.0, 240.0, 27.0)
+Item 36:
+Position: (150.0, 0.0, 0.0)
+End position: (179.0, 84.0, 7.0)
+Item 39:
+Position: (31.0, 179.0, 0.0)
+End position: (49.0, 240.0, 10.0)
+Item 41:
+Position: (117.0, 0.0, 30.0)
+End position: (172.0, 98.0, 34.0)
+Item 42:
+Position: (89.0, 0.0, 52.0)
+End position: (149.0, 100.0, 68.0)
+Item 43:
+Position: (185.0, 66.0, 26.0)
+End position: (240.0, 104.0, 42.0)
+Item 44:
+Position: (0.0, 113.0, 0.0)
+End position: (28.0, 166.0, 7.0)
+Item 45:
+Position: (180.0, 161.0, 36.0)
+End position: (240.0, 240.0, 52.0)
+Item 46:
+Position: (182.0, 104.0, 0.0)
+End position: (240.0, 147.0, 21.0)
+Item 47:
+Position: (52.0, 0.0, 0.0)
+End position: (66.0, 13.0, 8.0)
+Item 49:
+Position: (159.0, 0.0, 9.0)
+End position: (240.0, 35.0, 25.0)
+Item 50:
+Position: (0.0, 56.0, 11.0)
+End position: (31.0, 110.0, 27.0)
+Item 51:
+Position: (179.0, 38.0, 4.0)
+End position: (240.0, 100.0, 26.0)
+Item 53:
+Position: (0.0, 60.0, 0.0)
+End position: (30.0, 84.0, 5.0)
+Item 54:
+Position: (43.0, 0.0, 52.0)
+End position: (88.0, 74.0, 76.0)
+Item 55:
+Position: (0.0, 0.0, 22.0)
+End position: (85.0, 56.0, 52.0)
+Item 58:
+Position: (71.0, 15.0, 0.0)
+End position: (102.0, 101.0, 7.0)
+Item 63:
+Position: (0.0, 166.0, 0.0)
+End position: (25.0, 240.0, 7.0)
+Item 65:
+Position: (36.0, 169.0, 37.0)
+End position: (113.0, 240.0, 57.0)
+Item 66:
+Position: (40.0, 81.0, 10.0)
+End position: (102.0, 147.0, 35.0)
+Item 69:
+Position: (173.0, 158.0, 29.0)
+End position: (240.0, 240.0, 36.0)
+Item 70:
+Position: (149.0, 161.0, 11.0)
+End position: (197.0, 232.0, 29.0)
+Item 72:
+Position: (0.0, 110.0, 7.0)
+End position: (40.0, 147.0, 36.0)
+Item 73:
+Position: (206.0, 38.0, 0.0)
+End position: (240.0, 78.0, 4.0)
+Item 74:
+Position: (49.0, 167.0, 0.0)
+End position: (71.0, 240.0, 9.0)
+Item 75:
+Position: (71.0, 171.0, 0.0)
+End position: (113.0, 214.0, 25.0)
+Item 76:
+Position: (0.0, 74.0, 52.0)
+End position: (70.0, 144.0, 71.0)
+Item 77:
+Position: (203.0, 148.0, 0.0)
+End position: (240.0, 240.0, 28.0)
+Item 78:
+Position: (49.0, 214.0, 9.0)
+End position: (138.0, 240.0, 21.0)
+Item 79:
+Position: (149.0, 161.0, 0.0)
+End position: (163.0, 217.0, 11.0)
+Item 81:
+Position: (118.0, 161.0, 0.0)
+End position: (149.0, 210.0, 23.0)
+Item 83:
+Position: (113.0, 179.0, 37.0)
+End position: (172.0, 240.0, 52.0)
+Item 86:
+Position: (102.0, 22.0, 0.0)
+End position: (149.0, 116.0, 30.0)
+Item 87:
+Position: (174.0, 147.0, 52.0)
+End position: (240.0, 240.0, 71.0)
+Item 90:
+Position: (40.0, 81.0, 35.0)
+End position: (139.0, 167.0, 52.0)
+Item 91:
+Position: (0.0, 148.0, 8.0)
+End position: (81.0, 167.0, 19.0)
+Item 93:
+Position: (0.0, 158.0, 27.0)
+End position: (34.0, 240.0, 54.0)
+Item 94:
+Position: (59.0, 101.0, 0.0)
+End position: (95.0, 147.0, 10.0)
+Item 95:
+Position: (102.0, 116.0, 0.0)
+End position: (182.0, 161.0, 25.0)
+Item 97:
+Position: (113.0, 0.0, 4.0)
+End position: (147.0, 22.0, 10.0)
+Item 99:
+Position: (40.0, 104.0, 0.0)
+End position: (59.0, 164.0, 8.0)
